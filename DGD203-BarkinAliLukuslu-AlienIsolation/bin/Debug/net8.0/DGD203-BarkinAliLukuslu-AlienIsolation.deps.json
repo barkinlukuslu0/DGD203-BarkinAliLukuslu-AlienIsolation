@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DGD203-BarkinAliLukuslu-AlienIsolation/1.0.0": {
+        "runtime": {
+          "DGD203-BarkinAliLukuslu-AlienIsolation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DGD203-BarkinAliLukuslu-AlienIsolation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

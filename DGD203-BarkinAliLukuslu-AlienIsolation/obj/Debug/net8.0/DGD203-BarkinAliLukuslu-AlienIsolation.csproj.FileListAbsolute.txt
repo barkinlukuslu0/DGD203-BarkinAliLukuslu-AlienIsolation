@@ -1,0 +1,28 @@
+C:\Users\barki\OneDrive\Desktop\Yeni klasör\DGD203-BarkinAliLukuslu-AlienIsolation\DGD203-BarkinAliLukuslu-AlienIsolation\obj\Debug\net8.0\DGD203-BarkinAliLukuslu-AlienIsolation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barki\OneDrive\Desktop\Yeni klasör\DGD203-BarkinAliLukuslu-AlienIsolation\DGD203-BarkinAliLukuslu-AlienIsolation\obj\Debug\net8.0\DGD203-BarkinAliLukuslu-AlienIsolation.AssemblyInfoInputs.cache
+C:\Users\barki\OneDrive\Desktop\Yeni klasör\DGD203-BarkinAliLukuslu-AlienIsolation\DGD203-BarkinAliLukuslu-AlienIsolation\obj\Debug\net8.0\DGD203-BarkinAliLukuslu-AlienIsolation.AssemblyInfo.cs
+C:\Users\barki\OneDrive\Desktop\Yeni klasör\DGD203-BarkinAliLukuslu-AlienIsolation\DGD203-BarkinAliLukuslu-AlienIsolation\obj\Debug\net8.0\DGD203-BarkinAliLukuslu-AlienIsolation.csproj.CoreCompileInputs.cache
+C:\Users\barki\OneDrive\Desktop\Yeni klasör\DGD203-BarkinAliLukuslu-AlienIsolation\DGD203-BarkinAliLukuslu-AlienIsolation\bin\Debug\net8.0\DGD203-BarkinAliLukuslu-AlienIsolation.exe
+C:\Users\barki\OneDrive\Desktop\Yeni klasör\DGD203-BarkinAliLukuslu-AlienIsolation\DGD203-BarkinAliLukuslu-AlienIsolation\bin\Debug\net8.0\DGD203-BarkinAliLukuslu-AlienIsolation.deps.json
+C:\Users\barki\OneDrive\Desktop\Yeni klasör\DGD203-BarkinAliLukuslu-AlienIsolation\DGD203-BarkinAliLukuslu-AlienIsolation\bin\Debug\net8.0\DGD203-BarkinAliLukuslu-AlienIsolation.runtimeconfig.json
+C:\Users\barki\OneDrive\Desktop\Yeni klasör\DGD203-BarkinAliLukuslu-AlienIsolation\DGD203-BarkinAliLukuslu-AlienIsolation\bin\Debug\net8.0\DGD203-BarkinAliLukuslu-AlienIsolation.dll
+C:\Users\barki\OneDrive\Desktop\Yeni klasör\DGD203-BarkinAliLukuslu-AlienIsolation\DGD203-BarkinAliLukuslu-AlienIsolation\bin\Debug\net8.0\DGD203-BarkinAliLukuslu-AlienIsolation.pdb
+C:\Users\barki\OneDrive\Desktop\Yeni klasör\DGD203-BarkinAliLukuslu-AlienIsolation\DGD203-BarkinAliLukuslu-AlienIsolation\obj\Debug\net8.0\DGD203-BarkinAliLukuslu-AlienIsolation.dll
+C:\Users\barki\OneDrive\Desktop\Yeni klasör\DGD203-BarkinAliLukuslu-AlienIsolation\DGD203-BarkinAliLukuslu-AlienIsolation\obj\Debug\net8.0\refint\DGD203-BarkinAliLukuslu-AlienIsolation.dll
+C:\Users\barki\OneDrive\Desktop\Yeni klasör\DGD203-BarkinAliLukuslu-AlienIsolation\DGD203-BarkinAliLukuslu-AlienIsolation\obj\Debug\net8.0\DGD203-BarkinAliLukuslu-AlienIsolation.pdb
+C:\Users\barki\OneDrive\Desktop\Yeni klasör\DGD203-BarkinAliLukuslu-AlienIsolation\DGD203-BarkinAliLukuslu-AlienIsolation\obj\Debug\net8.0\DGD203-BarkinAliLukuslu-AlienIsolation.genruntimeconfig.cache
+C:\Users\barki\OneDrive\Desktop\Yeni klasör\DGD203-BarkinAliLukuslu-AlienIsolation\DGD203-BarkinAliLukuslu-AlienIsolation\obj\Debug\net8.0\ref\DGD203-BarkinAliLukuslu-AlienIsolation.dll
+C:\Users\barki\OneDrive\Belgeler\GitHub\DGD203-BarkinAliLukuslu-X\DGD203-BarkinAliLukuslu-AlienIsolation\bin\Debug\net8.0\DGD203-BarkinAliLukuslu-AlienIsolation.exe
+C:\Users\barki\OneDrive\Belgeler\GitHub\DGD203-BarkinAliLukuslu-X\DGD203-BarkinAliLukuslu-AlienIsolation\bin\Debug\net8.0\DGD203-BarkinAliLukuslu-AlienIsolation.deps.json
+C:\Users\barki\OneDrive\Belgeler\GitHub\DGD203-BarkinAliLukuslu-X\DGD203-BarkinAliLukuslu-AlienIsolation\bin\Debug\net8.0\DGD203-BarkinAliLukuslu-AlienIsolation.runtimeconfig.json
+C:\Users\barki\OneDrive\Belgeler\GitHub\DGD203-BarkinAliLukuslu-X\DGD203-BarkinAliLukuslu-AlienIsolation\bin\Debug\net8.0\DGD203-BarkinAliLukuslu-AlienIsolation.dll
+C:\Users\barki\OneDrive\Belgeler\GitHub\DGD203-BarkinAliLukuslu-X\DGD203-BarkinAliLukuslu-AlienIsolation\bin\Debug\net8.0\DGD203-BarkinAliLukuslu-AlienIsolation.pdb
+C:\Users\barki\OneDrive\Belgeler\GitHub\DGD203-BarkinAliLukuslu-X\DGD203-BarkinAliLukuslu-AlienIsolation\obj\Debug\net8.0\DGD203-BarkinAliLukuslu-AlienIsolation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barki\OneDrive\Belgeler\GitHub\DGD203-BarkinAliLukuslu-X\DGD203-BarkinAliLukuslu-AlienIsolation\obj\Debug\net8.0\DGD203-BarkinAliLukuslu-AlienIsolation.AssemblyInfoInputs.cache
+C:\Users\barki\OneDrive\Belgeler\GitHub\DGD203-BarkinAliLukuslu-X\DGD203-BarkinAliLukuslu-AlienIsolation\obj\Debug\net8.0\DGD203-BarkinAliLukuslu-AlienIsolation.AssemblyInfo.cs
+C:\Users\barki\OneDrive\Belgeler\GitHub\DGD203-BarkinAliLukuslu-X\DGD203-BarkinAliLukuslu-AlienIsolation\obj\Debug\net8.0\DGD203-BarkinAliLukuslu-AlienIsolation.csproj.CoreCompileInputs.cache
+C:\Users\barki\OneDrive\Belgeler\GitHub\DGD203-BarkinAliLukuslu-X\DGD203-BarkinAliLukuslu-AlienIsolation\obj\Debug\net8.0\DGD203-BarkinAliLukuslu-AlienIsolation.dll
+C:\Users\barki\OneDrive\Belgeler\GitHub\DGD203-BarkinAliLukuslu-X\DGD203-BarkinAliLukuslu-AlienIsolation\obj\Debug\net8.0\refint\DGD203-BarkinAliLukuslu-AlienIsolation.dll
+C:\Users\barki\OneDrive\Belgeler\GitHub\DGD203-BarkinAliLukuslu-X\DGD203-BarkinAliLukuslu-AlienIsolation\obj\Debug\net8.0\DGD203-BarkinAliLukuslu-AlienIsolation.pdb
+C:\Users\barki\OneDrive\Belgeler\GitHub\DGD203-BarkinAliLukuslu-X\DGD203-BarkinAliLukuslu-AlienIsolation\obj\Debug\net8.0\DGD203-BarkinAliLukuslu-AlienIsolation.genruntimeconfig.cache
+C:\Users\barki\OneDrive\Belgeler\GitHub\DGD203-BarkinAliLukuslu-X\DGD203-BarkinAliLukuslu-AlienIsolation\obj\Debug\net8.0\ref\DGD203-BarkinAliLukuslu-AlienIsolation.dll

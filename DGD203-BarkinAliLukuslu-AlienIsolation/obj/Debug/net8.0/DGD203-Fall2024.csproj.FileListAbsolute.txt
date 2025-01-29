@@ -1,0 +1,58 @@
+D:\Workshop\Unity Projects\ISU\ISU-DGD203-Fall2024\DGD203-Fall2024\DGD203-Fall2024\bin\Debug\net8.0\DGD203-Fall2024.exe
+D:\Workshop\Unity Projects\ISU\ISU-DGD203-Fall2024\DGD203-Fall2024\DGD203-Fall2024\bin\Debug\net8.0\DGD203-Fall2024.deps.json
+D:\Workshop\Unity Projects\ISU\ISU-DGD203-Fall2024\DGD203-Fall2024\DGD203-Fall2024\bin\Debug\net8.0\DGD203-Fall2024.runtimeconfig.json
+D:\Workshop\Unity Projects\ISU\ISU-DGD203-Fall2024\DGD203-Fall2024\DGD203-Fall2024\bin\Debug\net8.0\DGD203-Fall2024.dll
+D:\Workshop\Unity Projects\ISU\ISU-DGD203-Fall2024\DGD203-Fall2024\DGD203-Fall2024\bin\Debug\net8.0\DGD203-Fall2024.pdb
+D:\Workshop\Unity Projects\ISU\ISU-DGD203-Fall2024\DGD203-Fall2024\DGD203-Fall2024\obj\Debug\net8.0\DGD203-Fall2024.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workshop\Unity Projects\ISU\ISU-DGD203-Fall2024\DGD203-Fall2024\DGD203-Fall2024\obj\Debug\net8.0\DGD203-Fall2024.AssemblyInfoInputs.cache
+D:\Workshop\Unity Projects\ISU\ISU-DGD203-Fall2024\DGD203-Fall2024\DGD203-Fall2024\obj\Debug\net8.0\DGD203-Fall2024.AssemblyInfo.cs
+D:\Workshop\Unity Projects\ISU\ISU-DGD203-Fall2024\DGD203-Fall2024\DGD203-Fall2024\obj\Debug\net8.0\DGD203-Fall2024.csproj.CoreCompileInputs.cache
+D:\Workshop\Unity Projects\ISU\ISU-DGD203-Fall2024\DGD203-Fall2024\DGD203-Fall2024\obj\Debug\net8.0\DGD203-Fall2024.dll
+D:\Workshop\Unity Projects\ISU\ISU-DGD203-Fall2024\DGD203-Fall2024\DGD203-Fall2024\obj\Debug\net8.0\refint\DGD203-Fall2024.dll
+D:\Workshop\Unity Projects\ISU\ISU-DGD203-Fall2024\DGD203-Fall2024\DGD203-Fall2024\obj\Debug\net8.0\DGD203-Fall2024.pdb
+D:\Workshop\Unity Projects\ISU\ISU-DGD203-Fall2024\DGD203-Fall2024\DGD203-Fall2024\obj\Debug\net8.0\DGD203-Fall2024.genruntimeconfig.cache
+D:\Workshop\Unity Projects\ISU\ISU-DGD203-Fall2024\DGD203-Fall2024\DGD203-Fall2024\obj\Debug\net8.0\ref\DGD203-Fall2024.dll
+D:\Workshop\UnityProjects\ISU\ISU-DGD203-Fall2024\DGD203-Fall2024\DGD203-Fall2024\bin\Debug\net8.0\DGD203-Fall2024.exe
+D:\Workshop\UnityProjects\ISU\ISU-DGD203-Fall2024\DGD203-Fall2024\DGD203-Fall2024\bin\Debug\net8.0\DGD203-Fall2024.deps.json
+D:\Workshop\UnityProjects\ISU\ISU-DGD203-Fall2024\DGD203-Fall2024\DGD203-Fall2024\bin\Debug\net8.0\DGD203-Fall2024.runtimeconfig.json
+D:\Workshop\UnityProjects\ISU\ISU-DGD203-Fall2024\DGD203-Fall2024\DGD203-Fall2024\bin\Debug\net8.0\DGD203-Fall2024.dll
+D:\Workshop\UnityProjects\ISU\ISU-DGD203-Fall2024\DGD203-Fall2024\DGD203-Fall2024\bin\Debug\net8.0\DGD203-Fall2024.pdb
+D:\Workshop\UnityProjects\ISU\ISU-DGD203-Fall2024\DGD203-Fall2024\DGD203-Fall2024\obj\Debug\net8.0\DGD203-Fall2024.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workshop\UnityProjects\ISU\ISU-DGD203-Fall2024\DGD203-Fall2024\DGD203-Fall2024\obj\Debug\net8.0\DGD203-Fall2024.AssemblyInfoInputs.cache
+D:\Workshop\UnityProjects\ISU\ISU-DGD203-Fall2024\DGD203-Fall2024\DGD203-Fall2024\obj\Debug\net8.0\DGD203-Fall2024.AssemblyInfo.cs
+D:\Workshop\UnityProjects\ISU\ISU-DGD203-Fall2024\DGD203-Fall2024\DGD203-Fall2024\obj\Debug\net8.0\DGD203-Fall2024.csproj.CoreCompileInputs.cache
+D:\Workshop\UnityProjects\ISU\ISU-DGD203-Fall2024\DGD203-Fall2024\DGD203-Fall2024\obj\Debug\net8.0\DGD203-Fall2024.dll
+D:\Workshop\UnityProjects\ISU\ISU-DGD203-Fall2024\DGD203-Fall2024\DGD203-Fall2024\obj\Debug\net8.0\refint\DGD203-Fall2024.dll
+D:\Workshop\UnityProjects\ISU\ISU-DGD203-Fall2024\DGD203-Fall2024\DGD203-Fall2024\obj\Debug\net8.0\DGD203-Fall2024.pdb
+D:\Workshop\UnityProjects\ISU\ISU-DGD203-Fall2024\DGD203-Fall2024\DGD203-Fall2024\obj\Debug\net8.0\DGD203-Fall2024.genruntimeconfig.cache
+D:\Workshop\UnityProjects\ISU\ISU-DGD203-Fall2024\DGD203-Fall2024\DGD203-Fall2024\obj\Debug\net8.0\ref\DGD203-Fall2024.dll
+D:\Workshop\UnityProjects\ISU\ISU-DGD203-Fall2024\DGD203-Fall2024\bin\Debug\net8.0\DGD203-Fall2024.exe
+D:\Workshop\UnityProjects\ISU\ISU-DGD203-Fall2024\DGD203-Fall2024\bin\Debug\net8.0\DGD203-Fall2024.deps.json
+D:\Workshop\UnityProjects\ISU\ISU-DGD203-Fall2024\DGD203-Fall2024\bin\Debug\net8.0\DGD203-Fall2024.runtimeconfig.json
+D:\Workshop\UnityProjects\ISU\ISU-DGD203-Fall2024\DGD203-Fall2024\bin\Debug\net8.0\DGD203-Fall2024.dll
+D:\Workshop\UnityProjects\ISU\ISU-DGD203-Fall2024\DGD203-Fall2024\bin\Debug\net8.0\DGD203-Fall2024.pdb
+D:\Workshop\UnityProjects\ISU\ISU-DGD203-Fall2024\DGD203-Fall2024\obj\Debug\net8.0\DGD203-Fall2024.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workshop\UnityProjects\ISU\ISU-DGD203-Fall2024\DGD203-Fall2024\obj\Debug\net8.0\DGD203-Fall2024.AssemblyInfoInputs.cache
+D:\Workshop\UnityProjects\ISU\ISU-DGD203-Fall2024\DGD203-Fall2024\obj\Debug\net8.0\DGD203-Fall2024.AssemblyInfo.cs
+D:\Workshop\UnityProjects\ISU\ISU-DGD203-Fall2024\DGD203-Fall2024\obj\Debug\net8.0\DGD203-Fall2024.csproj.CoreCompileInputs.cache
+D:\Workshop\UnityProjects\ISU\ISU-DGD203-Fall2024\DGD203-Fall2024\obj\Debug\net8.0\DGD203-Fall2024.sourcelink.json
+D:\Workshop\UnityProjects\ISU\ISU-DGD203-Fall2024\DGD203-Fall2024\obj\Debug\net8.0\DGD203-Fall2024.dll
+D:\Workshop\UnityProjects\ISU\ISU-DGD203-Fall2024\DGD203-Fall2024\obj\Debug\net8.0\refint\DGD203-Fall2024.dll
+D:\Workshop\UnityProjects\ISU\ISU-DGD203-Fall2024\DGD203-Fall2024\obj\Debug\net8.0\DGD203-Fall2024.pdb
+D:\Workshop\UnityProjects\ISU\ISU-DGD203-Fall2024\DGD203-Fall2024\obj\Debug\net8.0\DGD203-Fall2024.genruntimeconfig.cache
+D:\Workshop\UnityProjects\ISU\ISU-DGD203-Fall2024\DGD203-Fall2024\obj\Debug\net8.0\ref\DGD203-Fall2024.dll
+C:\Users\barki\OneDrive\Desktop\ISU-DGD203-Fall2024\DGD203-Fall2024\bin\Debug\net8.0\DGD203-Fall2024.exe
+C:\Users\barki\OneDrive\Desktop\ISU-DGD203-Fall2024\DGD203-Fall2024\bin\Debug\net8.0\DGD203-Fall2024.deps.json
+C:\Users\barki\OneDrive\Desktop\ISU-DGD203-Fall2024\DGD203-Fall2024\bin\Debug\net8.0\DGD203-Fall2024.runtimeconfig.json
+C:\Users\barki\OneDrive\Desktop\ISU-DGD203-Fall2024\DGD203-Fall2024\bin\Debug\net8.0\DGD203-Fall2024.dll
+C:\Users\barki\OneDrive\Desktop\ISU-DGD203-Fall2024\DGD203-Fall2024\bin\Debug\net8.0\DGD203-Fall2024.pdb
+C:\Users\barki\OneDrive\Desktop\ISU-DGD203-Fall2024\DGD203-Fall2024\obj\Debug\net8.0\DGD203-Fall2024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barki\OneDrive\Desktop\ISU-DGD203-Fall2024\DGD203-Fall2024\obj\Debug\net8.0\DGD203-Fall2024.AssemblyInfoInputs.cache
+C:\Users\barki\OneDrive\Desktop\ISU-DGD203-Fall2024\DGD203-Fall2024\obj\Debug\net8.0\DGD203-Fall2024.AssemblyInfo.cs
+C:\Users\barki\OneDrive\Desktop\ISU-DGD203-Fall2024\DGD203-Fall2024\obj\Debug\net8.0\DGD203-Fall2024.csproj.CoreCompileInputs.cache
+C:\Users\barki\OneDrive\Desktop\ISU-DGD203-Fall2024\DGD203-Fall2024\obj\Debug\net8.0\DGD203-Fall2024.sourcelink.json
+C:\Users\barki\OneDrive\Desktop\ISU-DGD203-Fall2024\DGD203-Fall2024\obj\Debug\net8.0\DGD203-Fall2024.dll
+C:\Users\barki\OneDrive\Desktop\ISU-DGD203-Fall2024\DGD203-Fall2024\obj\Debug\net8.0\refint\DGD203-Fall2024.dll
+C:\Users\barki\OneDrive\Desktop\ISU-DGD203-Fall2024\DGD203-Fall2024\obj\Debug\net8.0\DGD203-Fall2024.pdb
+C:\Users\barki\OneDrive\Desktop\ISU-DGD203-Fall2024\DGD203-Fall2024\obj\Debug\net8.0\DGD203-Fall2024.genruntimeconfig.cache
+C:\Users\barki\OneDrive\Desktop\ISU-DGD203-Fall2024\DGD203-Fall2024\obj\Debug\net8.0\ref\DGD203-Fall2024.dll
