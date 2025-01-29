@@ -42,6 +42,7 @@ public class IntroductionMenu
         Console.WriteLine("=== CREDITS ===");
         Console.WriteLine("Game developed by: Barkýn Ali Lüküslü");
         Console.WriteLine("Special thanks to: Onur EREREN");
+        Console.WriteLine("Sources: Alien Isolation, ChatGPT, Lessons");
         Console.WriteLine("\nPress any key to return to the main menu.");
         Console.ReadKey();
         ShowMenu();

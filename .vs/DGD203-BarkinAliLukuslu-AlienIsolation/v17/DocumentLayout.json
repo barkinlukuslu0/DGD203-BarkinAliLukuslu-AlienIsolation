@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\barki\\OneDrive\\Belgeler\\GitHub\\DGD203-BarkinAliLukuslu-X\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A381AC12-309D-4D50-834C-B00540D74B84}|DGD203-BarkinAliLukuslu-AlienIsolation\\DGD203-BarkinAliLukuslu-AlienIsolation.csproj|c:\\users\\barki\\onedrive\\belgeler\\github\\dgd203-barkinalilukuslu-x\\dgd203-barkinalilukuslu-alienisolation\\introductionmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A381AC12-309D-4D50-834C-B00540D74B84}|DGD203-BarkinAliLukuslu-AlienIsolation\\DGD203-BarkinAliLukuslu-AlienIsolation.csproj|solutionrelative:dgd203-barkinalilukuslu-alienisolation\\introductionmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IntroductionMenu.cs",
+              "DocumentMoniker": "C:\\Users\\barki\\OneDrive\\Belgeler\\GitHub\\DGD203-BarkinAliLukuslu-X\\DGD203-BarkinAliLukuslu-AlienIsolation\\IntroductionMenu.cs",
+              "RelativeDocumentMoniker": "DGD203-BarkinAliLukuslu-AlienIsolation\\IntroductionMenu.cs",
+              "ToolTip": "C:\\Users\\barki\\OneDrive\\Belgeler\\GitHub\\DGD203-BarkinAliLukuslu-X\\DGD203-BarkinAliLukuslu-AlienIsolation\\IntroductionMenu.cs",
+              "RelativeToolTip": "DGD203-BarkinAliLukuslu-AlienIsolation\\IntroductionMenu.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAA1wC0AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T13:56:05.807Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
